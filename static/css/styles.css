@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://www.tableau.com/sites/default/files/2020-10/dubai-air--2019-56--optimized.jpg');
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+  h3{
+      color: black !important;
+      font-size: xx-large;
+  }
